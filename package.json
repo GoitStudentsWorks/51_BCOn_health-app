@@ -2,7 +2,7 @@
   "name": "health-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://struzhaks.github.io/health-app/",
+  "homepage": "https://GoitStudentsWorks.github.io/51_BCOn_health-app/",
   "dependencies": {
     "@fortawesome/free-solid-svg-icons": "^6.4.2",
     "@fortawesome/react-fontawesome": "^0.2.0",
