@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/51_BCOn_health-app/static/css/main.9ff0f7e8.css",
-    "main.js": "/51_BCOn_health-app/static/js/main.10b7480b.js",
+    "main.js": "/51_BCOn_health-app/static/js/main.b7485494.js",
     "static/media/Setting.png": "/51_BCOn_health-app/static/media/Setting.986a0cfc792fb4757136.png",
     "static/media/Food.png": "/51_BCOn_health-app/static/media/Food.5cc9426ff336590ddb44.png",
     "static/media/Goals.png": "/51_BCOn_health-app/static/media/Goals.91eafec6d607c40ddeeb.png",
@@ -14,10 +14,10 @@
     "static/media/eye-off.svg": "/51_BCOn_health-app/static/media/eye-off.1af1aea00908e644f0dfa9d94f5d0f55.svg",
     "static/media/eye.svg": "/51_BCOn_health-app/static/media/eye.7c6cdc5beb99f3e2a9ef43f719411585.svg",
     "main.9ff0f7e8.css.map": "/51_BCOn_health-app/static/css/main.9ff0f7e8.css.map",
-    "main.10b7480b.js.map": "/51_BCOn_health-app/static/js/main.10b7480b.js.map"
+    "main.b7485494.js.map": "/51_BCOn_health-app/static/js/main.b7485494.js.map"
   },
   "entrypoints": [
     "static/css/main.9ff0f7e8.css",
-    "static/js/main.10b7480b.js"
+    "static/js/main.b7485494.js"
   ]
 }
